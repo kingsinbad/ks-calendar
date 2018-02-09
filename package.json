@@ -1,0 +1,19 @@
+{
+  "name": "ks-calendar",
+  "version": "0.0.3",
+  "description": "Basic Calendar API powered by MomentJs",
+  "main": "lib/calendar.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "calendar",
+    "moment",
+    "momentjs"
+  ],
+  "author": "Jelo Asucro <asucro.laurence@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.20.1"
+  }
+}
